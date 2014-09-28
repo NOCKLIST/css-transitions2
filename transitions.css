@@ -1,0 +1,1 @@
+.voodoo img{ width: 188px; height: 240px; -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* For Safari 3.1 to 6.0 */ transition: width 2s, height 2s, transform 2s; } .voodoo :hover img{ width: 501px; height: 640px; -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */ transform: rotate(360deg); } 
